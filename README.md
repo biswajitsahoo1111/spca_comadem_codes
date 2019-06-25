@@ -1,4 +1,4 @@
-This repository contains data and codes to reproduce result in the conference paper titled "Feature subset selection using sparse principal component analysis and multiclass classification using selected features". The paper has been accpted for the conference. 
+This repository contains data and codes to reproduce results in the conference paper titled "Feature subset selection using sparse principal component analysis and multiclass classification using selected features". The paper has been accpted for the conference. 
 
 Codes are written in R and we have run it on R-3.5.3. The code will save some figures and tables in local directory. Some of those figures have been used in the paper.
 
