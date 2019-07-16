@@ -4,7 +4,7 @@ Codes are written in R and we have run it on R-3.5.3. The code will save some fi
 
 ## Package Requirements
 Base R &nbsp; &nbsp; &nbsp; : 3.5.3 ([MRO 3.5.3](https://mran.microsoft.com/release-history) can also be used) <br/>
-e0171 &nbsp; &nbsp; &nbsp;&nbsp; : 1.7-2 <br/>
+e1071 &nbsp; &nbsp; &nbsp;&nbsp; : 1.7-2 <br/>
 ggplot2 &nbsp; &nbsp; : 3.0.0 <br/>
 lars &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : 1.2 <br/>
 elasticnet &nbsp; : 1.1.1 <br/>
