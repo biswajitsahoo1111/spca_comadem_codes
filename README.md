@@ -8,6 +8,6 @@ e1071 &nbsp; &nbsp; &nbsp;&nbsp; : 1.7-2 <br/>
 ggplot2 &nbsp; &nbsp; : 3.0.0 <br/>
 lars &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : 1.2 <br/>
 elasticnet &nbsp; : 1.1.1 <br/>
-If these packages are not already installed, command 'install.packages("package_name")' can be used to install new packages.
+If these packages are not already installed, command `install.packages("package_name")` can be used to install new packages.
 
-For other reproducible results on condition monitoring, readers can visit [my project page](https://biswajitsahoo1111.github.io/project/personal-project/) on my [personal website](https://biswajitsahoo1111.github.io/).
+For other reproducible results on condition monitoring, readers can visit [my project page](https://biswajitsahoo1111.github.io/cbm_codes_open/) on my [personal website](https://biswajitsahoo1111.github.io/).
