@@ -12,6 +12,7 @@ If these packages are not already installed, command `install.packages("package_
 
 For other reproducible results on condition monitoring, readers can visit [my project page](https://biswajitsahoo1111.github.io/cbm_codes_open/) on my [personal website](https://biswajitsahoo1111.github.io/).
 
+--------------------------------
 Cite this work as:
 ```
 @incollection{Sahoo_2020,
